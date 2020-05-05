@@ -3,6 +3,7 @@
 #include <SDL.h>
 #include <SDL2_gfxPrimitives.h>
 #include <math.h>
+#include "SDL_image.h"
 
 const int WIDTH = 640;
 const int HEIGHT = 480;
