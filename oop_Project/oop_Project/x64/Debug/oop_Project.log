@@ -1,6 +1,7 @@
 ﻿  Source.cpp
-c:\users\dan89\desktop\oop_project\oop_project\oop_project\source.cpp(206): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-c:\users\dan89\desktop\oop_project\oop_project\oop_project\source.cpp(213): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-c:\users\dan89\desktop\oop_project\oop_project\oop_project\source.cpp(220): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-c:\users\dan89\desktop\oop_project\oop_project\oop_project\source.cpp(228): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-  oop_Project.vcxproj -> C:\Users\dan89\Desktop\oop_project\oop_Project\x64\Debug\oop_Project.exe
+c:\users\dan89\desktop\project\1 (1)\oop_project_v2\oop_project\source.cpp(323): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\dan89\desktop\project\1 (1)\oop_project_v2\oop_project\source.cpp(335): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\dan89\desktop\project\1 (1)\oop_project_v2\oop_project\source.cpp(347): warning C4244: '-=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\dan89\desktop\project\1 (1)\oop_project_v2\oop_project\source.cpp(360): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\dan89\desktop\project\1 (1)\oop_project_v2\oop_project\source.cpp(520): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+  oop_Project.vcxproj -> C:\Users\dan89\Desktop\project\1 (1)\oop_Project_v2\x64\Debug\oop_Project.exe
